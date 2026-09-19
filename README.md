@@ -6,5 +6,3 @@
 - Used to do dc bot dev.
 - Used to do mc modding(*java*).
 - I sometimes play video games.
-
-If you want to talk to me, add me on Discord @painterflow11.
