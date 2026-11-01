@@ -9,8 +9,6 @@
 - Used to do Minecraft modding(*java*).
 - I sometimes play video games.
 
----
-
 ## Projects
 
 ### Current Projects
